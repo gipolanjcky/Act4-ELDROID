@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="themeRadioGroup" type="id" />
+    <item name="radioLight" type="id" />
+    <item name="radioDark" type="id" />
+    <item name="allowNotificationsCheckbox" type="id" />
+    <item name="emailEditText" type="id" />
+    <item name="nicknameEditText" type="id" />
+    <item name="saveButton" type="id" />
+</resources>

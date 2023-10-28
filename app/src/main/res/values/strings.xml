@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">gipolan.activity4</string>
+    <string name="theme">Theme</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="notifications">Notifications</string>
+    <string name="allow_push_notifications">Allow Push Notifications</string>
+    <string name="profile_details">Profile Details</string>
+    <string name="email_address">Email Address</string>
+    <string name="nickname">Nickname</string>
+    <string name="save">Save</string>
+</resources>
